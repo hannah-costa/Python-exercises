@@ -13,7 +13,21 @@ import sys
 
 # Complete the extraLongFactorials function below.
 def extraLongFactorials(n):
+  return math.factorial(n)
+  
+  """
+  factorial = 1
+  while n > 0:
+    factorial *= n
+    n -= 1
+
+  return factorial
+  """
+
+  """
   return 1 if n <= 1 else (n * extraLongFactorials(n-1))
+  """
+
   """
   if( n <= 1 ):
     return 1
