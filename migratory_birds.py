@@ -1,6 +1,7 @@
 """
 Solved by: phanThASm
 URL to problem: https://www.hackerrank.com/challenges/migratory-birds/problem
+"""
 
 #!/bin/python3
 
